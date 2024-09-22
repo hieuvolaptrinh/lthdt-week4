@@ -12,6 +12,6 @@ public class Bai3 {
             gt = gt * i;
         }
         System.out.println("Giai thua cua n la:"+gt);
-    }
+    }//
 }
 
