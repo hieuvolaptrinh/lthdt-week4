@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="089bc8ca-b7e7-4ce1-a784-3478bb06e7c5" name="Changes" comment="" />
+    <list default="true" id="089bc8ca-b7e7-4ce1-a784-3478bb06e7c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tuan_4_bt/src/bai4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan_4_bt/src/bai5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,9 +36,50 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Tuấn Khanh/lthdt-week4"
+    "last_opened_file_path": "D:/TUANKHANH/lthdt-week4"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tuan_4_bt" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.bai5">
+    <configuration name="bai4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai4" />
+      <module name="lthdt-week4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bai5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai5" />
+      <module name="lthdt-week4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tuan_4_bt.bai4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tuan_4_bt.bai4" />
+      <module name="lthdt-week4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tuan_4_bt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.bai5" />
+        <item itemvalue="Application.bai4" />
+        <item itemvalue="Application.tuan_4_bt.bai4" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
