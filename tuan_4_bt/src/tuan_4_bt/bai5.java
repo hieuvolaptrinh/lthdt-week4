@@ -1,3 +1,5 @@
+package tuan_4_bt;
+
 import java.util.Scanner;
 
 public class bai5 {
